@@ -1,0 +1,28 @@
+_repo: To-morrow-and-to-morrow-A-novel_69589
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McKenna, Stephen
+    birthdate: 1888
+    deathdate: 1967
+    gutenberg_agent_id: '33654'
+    url: http://www.gutenberg.org/2009/agents/33654
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_McKenna_(novelist)
+description: ''
+gutenberg_issued: '2022-12-19'
+identifiers:
+  gutenberg: '69589'
+language: en
+pgterms:marc905: 20221218161655mckenna
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Al Haines, John Routh & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: 'United States: Little, Brown, and Company,1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'To-morrow and to-morrow: A novel'
+url: http://www.gutenberg.org/ebooks/69589
